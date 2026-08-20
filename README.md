@@ -14,7 +14,6 @@ Este repositório reúne recursos práticos, frameworks de agentes, servidores M
 - **`/prompts`**: Biblioteca de system prompts, instruções de contexto e personas para tarefas especializadas de engenharia, análise e automação.
 - **`/templates`**: Boilerplates de código prontos para iniciar projetos integrados com LLMs (Claude, OpenAI, DeepSeek e APIs locais).
 - **`/mcp-servers`**: Exemplos práticos e utilitários para criar e integrar ferramentas via Model Context Protocol.
-- **`/scripts`**: Utilitários de automação em Python e Node.js para fluxos de dados, chamadas de API e testes.
 - **`/docs`**: Guias práticos, arquiteturas de referência e tutoriais passo a passo.
 
 ---
@@ -27,8 +26,8 @@ Este repositório reúne recursos práticos, frameworks de agentes, servidores M
 
 ### Clonando o Repositório
 ```bash
-git clone https://github.com/lbconsultoriadigital/lab8edu.me.git
-cd lab8edu.me
+git clone https://github.com/lbconsultoriadigital/lbedu.me.git
+cd lbedu.me
 ```
 
 ---

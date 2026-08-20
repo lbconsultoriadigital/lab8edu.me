@@ -13,7 +13,6 @@ Welcome to the **LAB8 Prompt Engineering Library**. This directory contains cura
 
 - **`software-engineer.md`**: System prompt for full-stack software development, architectural reviews, and code refactoring.
 - **`ai-agent-architect.md`**: Framework for designing autonomous agents, task decomposition, and tool orchestration.
-- **`data-analyst.md`**: Prompt specialized in SQL query optimization, data synthesis, and technical reporting.
 
 ### Best Practices
 1. **Clear Context Framing**: Define role, objectives, and operational boundaries.
@@ -31,7 +30,6 @@ Bem-vindo à **Biblioteca de Engenharia de Prompt da LAB8**. Este diretório re�
 
 - **`software-engineer.md`**: Prompt de sistema para engenharia de software full stack, revisão de arquitetura e refatoração de código.
 - **`ai-agent-architect.md`**: Framework para arquitetura de agentes autônomos, decomposição de tarefas e orquestração de ferramentas.
-- **`data-analyst.md`**: Prompt especializado em análise e síntese de dados, otimização de consultas SQL e relatórios técnicos.
 
 ### Boas Práticas
 1. **Delimitação Clara de Contexto**: Defina papel, objetivos e fronteiras de atuação.

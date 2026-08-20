@@ -4,20 +4,23 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const apiKey = process.env.ANTHROPIC_API_KEY;
+const model = process.env.ANTHROPIC_MODEL;
 
-if (!apiKey) {
-  console.error("Error: ANTHROPIC_API_KEY is not set in environment variables.");
+if (!apiKey || !model) {
+  console.error(
+    "Error: ANTHROPIC_API_KEY and ANTHROPIC_MODEL must be set in the environment."
+  );
   process.exit(1);
 }
 
 const anthropic = new Anthropic({ apiKey });
 
 async function main() {
-  console.log("Sending request to Claude 3.5 Sonnet...");
+  console.log(`Sending request to ${model}...`);
 
   try {
     const stream = await anthropic.messages.create({
-      model: "claude-3-5-sonnet-20241022",
+      model,
       max_tokens: 1024,
       system: "You are a helpful and concise AI assistant developed by Anthropic.",
       messages: [

@@ -17,12 +17,12 @@ O **LAB8 Open Source Hub** é um espaço educacional aberto para aprender, testa
 - [Templates](./templates/): projetos iniciais em Python e Node.js para integração com modelos de IA.
 - [Servidores MCP](./mcp-servers/): exemplos e utilitários para Model Context Protocol.
 - [Guias](./docs/guides/): tutoriais e materiais de estudo passo a passo.
-- [Como contribuir](./CONTRIBUTING.md): regras para propor correções, exemplos e novos recursos.
+- [Como contribuir](https://github.com/lbconsultoriadigital/lbedu.me/blob/main/CONTRIBUTING.md): regras para propor correções, exemplos e novos recursos.
 
 ## Comece agora
 
 1. Escolha um guia ou template.
-2. Faça um fork do [repositório no GitHub](https://github.com/lbconsultoriadigital/lab8edu.me).
+2. Faça um fork do [repositório no GitHub](https://github.com/lbconsultoriadigital/lbedu.me).
 3. Teste o projeto no seu ambiente.
 4. Compartilhe melhorias por Pull Request.
 
@@ -36,4 +36,4 @@ O **LAB8 Open Source Hub** é um espaço educacional aberto para aprender, testa
 
 ---
 
-Mantido pela **LAB8** e pela comunidade. [GitHub](https://github.com/lbconsultoriadigital/lab8edu.me) · [Licença MIT](./LICENSE)
+Mantido pela **LAB8** e pela comunidade. [GitHub](https://github.com/lbconsultoriadigital/lbedu.me) · [Licença MIT](https://github.com/lbconsultoriadigital/lbedu.me/blob/main/LICENSE)

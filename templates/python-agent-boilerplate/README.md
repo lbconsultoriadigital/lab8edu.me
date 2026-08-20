@@ -7,7 +7,7 @@
 <a name="english"></a>
 ## English
 
-A minimal Python starter for understanding how tool execution, prompt structuring, and autonomous agent loops work.
+A minimal Python starter for understanding a tool registry, controlled tool execution, and safe input handling.
 
 ### Requirements
 - Python 3.10+
@@ -17,12 +17,17 @@ A minimal Python starter for understanding how tool execution, prompt structurin
 python main.py
 ```
 
+### Tests
+```bash
+python -m unittest
+```
+
 ---
 
 <a name="português"></a>
 ## Português
 
-Um modelo inicial e enxuto em Python para demonstrar o funcionamento de chamadas de ferramentas (*tool calling*), estruturação de prompts e loops de execução de agentes autônomos.
+Um modelo inicial e enxuto em Python para demonstrar registro de ferramentas, execução controlada e tratamento seguro de entradas.
 
 ### Requisitos
 - Python 3.10+
@@ -30,4 +35,9 @@ Um modelo inicial e enxuto em Python para demonstrar o funcionamento de chamadas
 ### Como Executar
 ```bash
 python main.py
+```
+
+### Testes
+```bash
+python -m unittest
 ```
