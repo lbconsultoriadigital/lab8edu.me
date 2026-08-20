@@ -16,8 +16,8 @@ Welcome to **LAB8 Open Source Hub**! This guide helps you navigate and use the r
 
 ### 2. Local Setup
 ```bash
-git clone https://github.com/lbconsultoriadigital/lab8edu.me.git
-cd lab8edu.me
+git clone https://github.com/lbconsultoriadigital/lbedu.me.git
+cd lbedu.me
 ```
 
 ---
@@ -34,6 +34,6 @@ Seja bem-vindo ao **LAB8 Open Source Hub**! Este guia ajuda você a navegar e ut
 
 ### 2. Configuração Local
 ```bash
-git clone https://github.com/lbconsultoriadigital/lab8edu.me.git
-cd lab8edu.me
+git clone https://github.com/lbconsultoriadigital/lbedu.me.git
+cd lbedu.me
 ```

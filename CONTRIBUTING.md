@@ -1,6 +1,6 @@
 # Guia de Contribuição - LAB8 Hub
 
-Agradecemos imensamente pelo seu interesse em contribuir para o **LAB8 Open Source Hub** (`lab8edu.me`)!
+Agradecemos imensamente pelo seu interesse em contribuir para o **LAB8 Open Source Hub** (`lbedu.me`)!
 
 Este documento estabelece as diretrizes para garantir que o processo de colaboração seja transparente, inclusivo e eficiente.
 
@@ -23,8 +23,8 @@ Este documento estabelece as diretrizes para garantir que o processo de colabora
 
 2. **Clone Local**:
    ```bash
-   git clone https://github.com/SEU-USUARIO/lab8edu.me.git
-   cd lab8edu.me
+   git clone https://github.com/SEU-USUARIO/lbedu.me.git
+   cd lbedu.me
    ```
 
 3. **Criação de Branch**:
