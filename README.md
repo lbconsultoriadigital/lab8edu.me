@@ -1,4 +1,4 @@
-# LAB8 Open Source Hub (`lab8edu.me`)
+# LAB8 Open Source Hub (`lbedu.me`)
 
 > Hub aberto de engenharia de IA, automação e desenvolvimento de agentes inteligentes da **LAB8**.
 
@@ -53,4 +53,4 @@ Distribuído sob a licença **MIT**. Veja [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Mantido com dedicação pela equipe e comunidade **LAB8** ([lab8edu.me](https://lab8edu.me)).
+Mantido com dedicação pela equipe e comunidade **LAB8** ([lbedu.me](https://lbedu.me)).
