@@ -1,26 +1,6 @@
 # Python Agent Boilerplate / Modelo de Agente em Python
 
-[English](#english) | [Português](#português)
-
----
-
-<a name="english"></a>
-## English
-
-A minimal Python starter for understanding a tool registry, controlled tool execution, and safe input handling.
-
-### Requirements
-- Python 3.10+
-
-### Usage
-```bash
-python main.py
-```
-
-### Tests
-```bash
-python -m unittest
-```
+[Português](#português) | [English](#english)
 
 ---
 
@@ -38,6 +18,26 @@ python main.py
 ```
 
 ### Testes
+```bash
+python -m unittest
+```
+
+---
+
+<a name="english"></a>
+## English
+
+A minimal Python starter for understanding a tool registry, controlled tool execution, and safe input handling.
+
+### Requirements
+- Python 3.10+
+
+### Usage
+```bash
+python main.py
+```
+
+### Tests
 ```bash
 python -m unittest
 ```
