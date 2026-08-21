@@ -1,24 +1,6 @@
 # Model Context Protocol (MCP) Hub
 
-[English](#english) | [Português](#português)
-
----
-
-<a name="english"></a>
-## English
-
-The **Model Context Protocol (MCP)** is an open standard developed by Anthropic that enables secure, bi-directional communication between LLM applications (such as Claude Desktop and AI Agents) and local or remote data sources, developer tools, and APIs.
-
-### Key Concepts
-
-- **Host Application**: The AI client initiating requests (e.g. Claude Desktop, Aside, custom agents).
-- **MCP Server**: A lightweight process exposing specific tools, resources, and prompt templates.
-- **Protocol Transports**: Standard input/output (`stdio`) for local processes or Server-Sent Events (`SSE`) for network-based tools.
-
-### Roadmap for this directory:
-- [x] Protocol specifications and conceptual overview.
-- [ ] TypeScript/Node.js custom MCP server template.
-- [ ] Python FastMCP server template.
+[Português](#português) | [English](#english)
 
 ---
 
@@ -37,3 +19,21 @@ O **Model Context Protocol (MCP)** é um padrão aberto desenvolvido pela Anthro
 - [x] Especificações e visão geral de arquitetura.
 - [ ] Template de servidor MCP customizado em TypeScript/Node.js.
 - [ ] Template de servidor MCP com FastMCP em Python.
+
+---
+
+<a name="english"></a>
+## English
+
+The **Model Context Protocol (MCP)** is an open standard developed by Anthropic that enables secure, bi-directional communication between LLM applications (such as Claude Desktop and AI Agents) and local or remote data sources, developer tools, and APIs.
+
+### Key Concepts
+
+- **Host Application**: The AI client initiating requests (e.g. Claude Desktop, Aside, custom agents).
+- **MCP Server**: A lightweight process exposing specific tools, resources, and prompt templates.
+- **Protocol Transports**: Standard input/output (`stdio`) for local processes or Server-Sent Events (`SSE`) for network-based tools.
+
+### Roadmap for this directory:
+- [x] Protocol specifications and conceptual overview.
+- [ ] TypeScript/Node.js custom MCP server template.
+- [ ] Python FastMCP server template.

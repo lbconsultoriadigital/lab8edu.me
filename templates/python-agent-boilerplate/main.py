@@ -1,5 +1,5 @@
 """
-LAB8 - Minimal ReAct Agent Boilerplate with Tool Calling
+LBedu - Minimal ReAct Agent Boilerplate with Tool Calling
 Demonstrates structured tool execution, observation handling, and loop termination.
 """
 
@@ -72,7 +72,7 @@ def execute_tool(tool_name: str, **kwargs) -> str:
     return f"Error: Tool '{tool_name}' not found."
 
 def main():
-    print("--- LAB8 Python Agent Boilerplate ---")
+    print("--- LBedu Python Agent Boilerplate ---")
     print("Testing tool: calculate_expression(expression='15 * 4 + 10')")
     res1 = execute_tool("calculate_expression", expression="15 * 4 + 10")
     print(f"Result: {res1}")
